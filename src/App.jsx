@@ -11,7 +11,7 @@ import {NoticeDetail,CustomerAdd,CustomerEdit,CustomerDetail } from './component
 const App = () => {
     return (
         <>
-            <Router basename={process.env.PUBLIC_URL}>
+            <Router>
                 <GlobalStyle />
                 <Routes>
                     <Route path='/' element={<Layout />}>
