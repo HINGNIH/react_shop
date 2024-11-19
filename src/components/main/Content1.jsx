@@ -17,11 +17,11 @@ const Content1 = () => {
     { id: 1, src: "./images/best01.jpg", name: "Rabbit Tie Sleeve Tutleneck Knit (Light Blue) ", price: "₩ 138,000" },
     { id: 2, src: "./images/best02.jpg", name: "Grape Button Bustier (Melange Grey)", price: "₩ 88,000" },
     { id: 3, src: "./images/best03.jpg", name: "Rose Flower Cardigan (Lilac Pink)", price: "₩ 158,000" },
-    { id: 4, src: "../images/best04.jpg", name: "Lace Layered Skirt Pants (Black)", price: "₩ 143,000" },
-    { id: 5, src: "../images/best05.jpg", name: "Rose Frill Hoodie Zipup (Rose) ", price: "₩ 128,000" },
-    { id: 6, src: "../images/best06.jpg", name: "Silky Lace Slip Dress (Mint)", price: "₩ 168,000" },
-    { id: 7, src: "../images/best07.jpg", name: "Sinoon Logo Cardigan (Light Pink)", price: "₩ 118,000" },
-    { id: 8, src: "../images/best08.jpg", name: "Tutu Skirt (Greyish Green)", price: "₩ 168,000" },
+    { id: 4, src: "./images/best04.jpg", name: "Lace Layered Skirt Pants (Black)", price: "₩ 143,000" },
+    { id: 5, src: "./images/best05.jpg", name: "Rose Frill Hoodie Zipup (Rose) ", price: "₩ 128,000" },
+    { id: 6, src: "./images/best06.jpg", name: "Silky Lace Slip Dress (Mint)", price: "₩ 168,000" },
+    { id: 7, src: "./images/best07.jpg", name: "Sinoon Logo Cardigan (Light Pink)", price: "₩ 118,000" },
+    { id: 8, src: "./images/best08.jpg", name: "Tutu Skirt (Greyish Green)", price: "₩ 168,000" },
 ];
 
     return (
