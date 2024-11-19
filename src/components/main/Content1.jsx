@@ -14,9 +14,9 @@ import { Pagination, Navigation } from 'swiper/modules';
 
 const Content1 = () => {
   const bestItems = [
-    { id: 1, src: "../images/best01.jpg", name: "Rabbit Tie Sleeve Tutleneck Knit (Light Blue) ", price: "₩ 138,000" },
-    { id: 2, src: "../images/best02.jpg", name: "Grape Button Bustier (Melange Grey)", price: "₩ 88,000" },
-    { id: 3, src: "../images/best03.jpg", name: "Rose Flower Cardigan (Lilac Pink)", price: "₩ 158,000" },
+    { id: 1, src: "./images/best01.jpg", name: "Rabbit Tie Sleeve Tutleneck Knit (Light Blue) ", price: "₩ 138,000" },
+    { id: 2, src: "./images/best02.jpg", name: "Grape Button Bustier (Melange Grey)", price: "₩ 88,000" },
+    { id: 3, src: "./images/best03.jpg", name: "Rose Flower Cardigan (Lilac Pink)", price: "₩ 158,000" },
     { id: 4, src: "../images/best04.jpg", name: "Lace Layered Skirt Pants (Black)", price: "₩ 143,000" },
     { id: 5, src: "../images/best05.jpg", name: "Rose Frill Hoodie Zipup (Rose) ", price: "₩ 128,000" },
     { id: 6, src: "../images/best06.jpg", name: "Silky Lace Slip Dress (Mint)", price: "₩ 168,000" },
