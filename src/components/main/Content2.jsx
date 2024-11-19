@@ -15,16 +15,16 @@ import { Pagination, Navigation } from 'swiper/modules';
 
 const Content2 = () => {
   const newItems = [
-    { id: 1, src: "../images/new01.jpg", name: "Puffer Jacket (Pale Yellow)", price: "₩ 278,000" },
-    { id: 2, src: "../images/new02.jpg", name: "Puffer Jacket (Turkish Blue)", price: "₩ 278,000" },
-    { id: 3, src: "../images/new03.jpg", name: "Puffer Jacket (Soft Pink)", price: "₩ 278,000" },
-    { id: 4, src: "../images/new04.jpg", name: "Puffer Jacket (Rose)", price: "₩ 278,000" },
-    { id: 5, src: "../images/new05.jpg", name: "Puffer Jacket (Black)", price: "₩ 278,000" },
-    { id: 6, src: "../images/new10.jpg", name: "Puffer Jacket (Ivory)", price: "₩ 278,000" },
-    { id: 7, src: "../images/new06.jpg", name: "Knit Balaclava (Sky Blue)", price: "₩ 48,000" },
-    { id: 8, src: "../images/new07.jpg", name: "Knit Balaclava (Rose Pink)", price: "₩ 48,000" },
-    { id: 9, src: "../images/new08.jpg", name: "Knit Balaclava (Black)", price: "₩ 48,000" },
-    { id: 10, src: "../images/new09.jpg", name: "Knit Balaclava (Apricot)", price: "₩ 48,000" },
+    { id: 1, src: "./images/new01.jpg", name: "Puffer Jacket (Pale Yellow)", price: "₩ 278,000" },
+    { id: 2, src: "./images/new02.jpg", name: "Puffer Jacket (Turkish Blue)", price: "₩ 278,000" },
+    { id: 3, src: "./images/new03.jpg", name: "Puffer Jacket (Soft Pink)", price: "₩ 278,000" },
+    { id: 4, src: "./images/new04.jpg", name: "Puffer Jacket (Rose)", price: "₩ 278,000" },
+    { id: 5, src: "./images/new05.jpg", name: "Puffer Jacket (Black)", price: "₩ 278,000" },
+    { id: 6, src: "./images/new10.jpg", name: "Puffer Jacket (Ivory)", price: "₩ 278,000" },
+    { id: 7, src: "./images/new06.jpg", name: "Knit Balaclava (Sky Blue)", price: "₩ 48,000" },
+    { id: 8, src: "./images/new07.jpg", name: "Knit Balaclava (Rose Pink)", price: "₩ 48,000" },
+    { id: 9, src: "./images/new08.jpg", name: "Knit Balaclava (Black)", price: "₩ 48,000" },
+    { id: 10, src: "./images/new09.jpg", name: "Knit Balaclava (Apricot)", price: "₩ 48,000" },
 ];
     return (
         <ContentStyle>
