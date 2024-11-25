@@ -124,7 +124,7 @@ export const CartListWrap = styled.div`
 
                  }
                  span {
-                 font-weight: 600;
+                 font-weight:500;
                }
               
                
@@ -237,7 +237,7 @@ export const PaymentWrap = styled.div`
              border : 1px solid #000;
              font-weight: 700;
                 h3 {
-                    font-size: 26px; 
+                    font-size: 22px; 
                     margin-bottom: 20px;
                  }
                 p { display: flex;
@@ -280,6 +280,7 @@ export const PaymentWrap = styled.div`
 `
 export const CartEmptyWrap = styled.div`
      .inner {
+     padding : 180px 0;
      }
      h2 {
     }
@@ -288,14 +289,14 @@ export const CartEmptyWrap = styled.div`
          flex-direction: column;
          justify-content: center;
          align-items: center;
-         height: 500px;
+         height: 800px;
     }
    p {
          text-align: center;
          button {
              margin-top: 30px;
              width: 300px;
-             height: 50px;
+             height: 60px;
             background: #000;
              color: #fff;
          }
